@@ -1,0 +1,1128 @@
+
+
+body {
+  font-family: Tahoma;
+   margin-top: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+   
+}
+
+div.container img {
+  width: 100px;
+  height: 100px;
+  float:left;
+}
+
+
+ul.a{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 41px 30px;
+  text-decoration: none;
+  float: right;
+}
+
+li a:hover {
+  background-color: #78bfbf;
+}
+
+.hero-image {
+  background: url(pic1.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 580px;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+}
+
+.hero-image25 {
+  background: url(home2.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 580px;
+  position: relative;
+}
+
+
+.hero-image26 {
+  background: url(home1.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 580px;
+  position: relative;
+}
+
+
+
+
+.empty{
+  width:400px;
+ height: 100px;
+  color: white;
+  Background-color: black;
+opacity: 0.8;
+   position: absolute;
+  top: 20%;
+  left: 35%;
+ padding: 20px;
+ border-style:solid;
+}
+
+pre.solid {border-style: solid;
+           font-family: Tahoma;
+
+}
+
+.fa {
+  padding: 10px;
+  font-size: 50px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 10px;
+}
+
+.fa:hover {
+    background-color: #78bfbf;
+}
+
+
+.fa-instagram {
+  background: #000000;
+  color: white;
+  float: right;
+}
+
+.fa-facebook {
+  background:  #000000;
+  color: white;
+  float: right;
+}
+
+.fa-youtube {
+  background: #000000;
+  color: white;
+  float: right;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 30px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: black; 
+  color: white; 
+  border: 2px solid #ffffff;
+}
+
+.button1:hover {
+  background-color: #78bfbf;
+  color: white;
+}
+
+.box{width:20%;
+     height:200px;
+     background-color: #fdebff;
+     margin: 20px auto;
+     display:inline-block;
+     border:2px solid black;
+     box-shadow:5px 5px;
+     margin:80px;
+     padding: 3px;
+}
+
+.box:hover{opacity:1;
+box-shadow:5px 5px white;
+}
+
+@media screen and (max-width:1200px){
+.box{width:100%;
+height:200px;
+background-color:#fdebff;
+margin:10px auto;
+
+}
+}
+
+.desc{width:1440px;
+     height:400px;
+     background-color: white;
+     text-align: center;
+     padding: 10px;
+     font-size: 20px;
+     opacity: 0.77;
+
+}
+
+.desc2{width:1420px;
+     height:300px;
+     background-color: white;
+     text-align: center;
+     padding: 10px;
+     font-size: 20px;
+     opacity: 0.77;
+
+}
+
+
+.hero-image2 {
+  background: url(resistance.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 400px;
+  position: relative;
+}
+
+.hero-text2 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-image2:hover {
+    background-color: #78bfbf;
+    opacity: .8;
+}
+
+
+.hero-image3 {
+  background: url(ride.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 400px;
+  position: relative;
+}
+
+.hero-text3 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.hero-image3:hover {
+    background-color: #78bfbf;
+    opacity: .8;
+}
+
+.hero-text2 button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 20px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text2 button:hover {
+  background-color: #555;
+  color: white;
+}
+
+.hero-text3 button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 20px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text3 button:hover {
+  background-color: #555;
+  color: white;
+}
+
+
+div.res img{
+  width:600px;
+  height: auto;
+  float: left;
+  opacity: 0.8;
+}
+
+.div1 {
+  padding: 342px 15px;
+  background-color:#dff3f5;
+  
+}
+ 
+
+.div2 {
+  width: 840px;
+ height: 377px;
+  background-color:#b8cacc;
+  float: left;
+
+}
+
+div.ress img{
+  width: 600px;
+  height: 375px;
+  float: right;
+  opacity: 0.8;
+}
+
+
+.div3{
+  background-color:#d7e0e0;
+  height: 740px;
+
+}
+
+div.gallery img{
+  width:600px;
+  height: 380px;
+  position: relative;
+  right: 860px;
+  opacity: 0.8;
+}
+
+
+div.gallery2 img{
+  width:600px;
+  height: auto;
+  float: right;
+  opacity: 0.8;
+}
+
+.hero-image5 {
+  background: url(ride0.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text5 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border-style:solid;
+  padding: 9px;
+}
+
+
+
+.hero-image6 {
+  background: url(ride.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text6 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+  left: 80%;
+  transform: translate(-10%, -50%);
+  color: white;
+}
+
+
+.hero-image7 {
+  background: url(ride2.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text7 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+ right: 75%;
+  transform: translate(20%, -50%);
+  color: white;
+  
+}
+
+
+.hero-image8 {
+  background: url(ride3.png) no-repeat center; 
+  background-size: cover;
+  height: 800px;
+  position: relative;
+  filter: grayscale(100%);
+}
+
+.hero-text8 {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+ right: 55%;
+  transform: translate(20%, -50%);
+  color: white;
+  background-color: black;
+ opacity: 0.8;
+  
+}
+
+.box2 {
+Position: relative;
+top: 400px;
+}
+
+.hero-image9 {
+  background: url(res0.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text9 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border-style:solid;
+  padding: 9px;
+}
+
+.hero-image10 {
+  background: url(res1.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text10 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+ right: 75%;
+  transform: translate(275%, -50%);
+  color: white;
+  
+}
+
+
+.hero-image11 {
+  background: url(res2.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text11 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+ right: 75%;
+  transform: translate(20%, -50%);
+  color: white;
+  
+}
+
+
+.hero-image12 {
+  background: url(res3.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text12 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+ right: 75%;
+  transform: translate(275%, -50%);
+  color: white;
+  
+}
+
+
+.hero-image13 {
+  background: url(res4.png) no-repeat center; 
+  background-size: cover;
+  height: 600px;
+  position: relative;
+}
+
+.hero-text13 {
+  text-align: left;
+  position: absolute;
+  top: 45%;
+ right: 75%;
+  transform: translate(20%, -50%);
+  color: white;
+  
+}
+
+
+.hero-image14 {
+  background: url(res5.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 800px;
+  position: relative;
+  filter: grayscale(100%);
+}
+
+.hero-text14 {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+ right: 55%;
+  transform: translate(20%, -50%);
+  color: white;
+  background-color: black;
+ opacity: 0.8;
+  
+}
+
+
+
+.hero-image15 {
+  background: url(buy1.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 400px;
+  position: relative;
+}
+
+.hero-text15 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+ border-style:solid;
+ padding-right: 30px;
+ padding-left: 30px;
+}
+
+.container3 {
+ background-color: white;
+ width: 730px;
+height: 400px;
+  position: absolute;
+  top: 90%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+
+
+.container4 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 168%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container5 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 168%;
+  left: 51%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container6 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 223%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container7 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 223%;
+  left: 51%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container8 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 278%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container9 {
+ background-color: white;
+ width: 350px;
+height: 420px;
+  position: absolute;
+  top: 278%;
+  left: 51%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+.container3:hover {
+    background-color: #ccfff6;
+}
+.container4:hover {
+    background-color: #ccfff6;
+}
+.container5:hover {
+    background-color: #ccfff6;
+}
+.container6:hover {
+    background-color: #ccfff6;
+}
+.container7:hover {
+    background-color: #ccfff6;
+}
+
+.container8:hover {
+    background-color: #ccfff6;
+}
+.container9:hover {
+    background-color:#ccfff6;
+}
+
+.container10:hover {
+    background-color: #ccfff6;
+}
+
+.container11:hover {
+    background-color: #ccfff6;
+}
+
+.container12:hover {
+    background-color:#ccfff6;
+}
+.container13:hover {
+    background-color: #ccfff6;
+}
+.button5 {
+  background-color: black; 
+  color: white;
+   padding: 10px 10px;
+  border: 2px solid #ffffff;
+}
+
+.button5:hover {
+  background-color: #4c38ff;
+  color: white;
+}
+
+
+.container10 {
+ background-color: white;
+ width: 730px;
+height: 400px;
+  position: absolute;
+  top: 365%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+.container11 {
+ background-color: white;
+ width: 730px;
+height: 350px;
+  position: absolute;
+  top: 450%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+
+.container12 {
+ background-color: white;
+ width: 350px;
+height: 450px;
+  position: absolute;
+  top: 527%;
+  left: 51%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+
+.container13 {
+ background-color: white;
+ width: 350px;
+height: 450px;
+  position: absolute;
+  top: 527%;
+  left: 25%;
+ padding-left: 40px;
+ padding-right: 40px;
+}
+
+
+
+.formempty{
+width: 500px;
+height: 100px;
+background-color: black;
+color:white;
+ position: absolute;
+  top: 100%;
+  left: 32%;
+  opacity: .0;
+}
+
+
+
+.con1 {
+width:50%;
+height: 20px;
+background-color: black;
+ position: absolute;
+  top: 175%;
+  left: 0%;
+  padding: 40px;
+ }
+
+.con2 {
+width:46.5%;
+height: 50px;
+background-color: black;
+ position: absolute;
+  top: 175%;
+  left: 50%;
+padding: 25px;
+ }
+
+
+
+
+.contact{
+width:420px;
+height: 650px;
+background-color: black;
+ position: absolute;
+  top: 70%;
+  left: 5%;
+color:white;
+padding-left: 20px;
+
+}
+
+
+
+
+.message{
+width:830px;
+height: 650px;
+background-color: black;
+ position: absolute;
+  top: 70%;
+  left: 38%;
+color:white;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #808080;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color:#f7f7f7;
+  color: black;
+}
+
+.map {
+position: absolute;
+  top: 158%;
+}
+
+.hero-image20 {
+  background: url(contact.jpg) no-repeat center; 
+  background-size: cover;
+  height: 400px;
+  position: relative;
+}
+
+.hero-text20 {
+  position: absolute;
+  top: 38%;
+  left: 38%;
+  color: white;
+border-style:solid;
+ padding-right: 30px;
+ padding-left: 30px;
+  
+}
+
+
+.vid{
+  position: relative;
+}
+
+
+div.instructors{
+
+ position: absolute;
+  top: 40%;
+  left: 5%;
+
+}
+div.gallery1 {
+  margin: 20px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 283px;
+
+
+}
+
+div.gallery1:hover {
+  opacity: 0.9;
+}
+
+div.gallery1 img {
+  width: 100%;
+  height: 385px;
+}
+
+div.desc1 {
+  padding: 55px;
+  text-align: center;
+  color: white;
+  background-color: black;
+
+
+}
+
+.bottom2{
+position: absolute;
+  top: 100%;
+  left: -6.8%;
+  color: black;
+ width: 1463px;
+  height: 80px;
+ background-color: black;
+
+}
+
+.bottom3{
+position: absolute;
+  top: 109%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+
+}
+
+.bottomres{
+position: absolute;
+  top: 470%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+
+}
+
+
+.bottomride{
+position: absolute;
+  top: 328%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+
+}
+
+
+.bottom4{
+position: absolute;
+  top: 600%;
+  color: black;
+ width: 1438px;
+  height: 80px;
+ background-color: black;
+}
+
+
+.bottom5{
+position: absolute;
+  top: 89%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+
+}
+
+.bottomcontactus{
+position: absolute;
+  top: 215%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+}
+ 
+.bottomthankyou{
+position: absolute;
+  top: 92%;
+  color: black;
+ width: 1440px;
+  height: 80px;
+ background-color: black;
+}
+
+.active{
+background-color: #78bfbf;
+}
+
+.signin{
+position: absolute;
+  top: 70%;
+ left: 29%;
+  color: black;
+ width: 200px;
+  height: 80px;
+ background-color: white;
+opacity: 0.8;
+padding: 30px;
+}
+
+.signup{
+position: absolute;
+  top: 70%;
+  left: 57%;
+  color: black;
+ width: 200px;
+  height: 80px;
+ background-color: white;
+opacity: 0.8;
+padding: 30px;
+}
+
+.signup:hover {
+ background-color:#ff0088;
+ color: white;
+}
+
+.signin:hover {
+ background-color:#00fff2;
+ color: white;
+}
+
+
+.vl {
+  border-left: 1px solid white;
+  height: 80px;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.hero-image50 {
+  background: url(home1.jpeg) no-repeat center; 
+  background-size: cover;
+  height: 380px;
+  position: relative;
+}
+
+.hero-text50 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  border-style: solid;
+ padding-left: 30px;
+padding-right: 30px;
+
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+
+.signupbtn2:hover {
+  opacity:1;
+}
+
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+
+.cancelbtn{
+float: left;
+  width: 50%;
+}
+
+ .signupbtn {
+  width: 50%;
+ background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+
+.cancelbtn{
+width: 50%;
+}
+
+.signupbtn2 {
+ background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  width: 50%;
+}
+
+
+.containerrr {
+  padding: 16px;
+}
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+.form{
+width: 500px;
+height: 450px;
+background-color: black;
+color:white;
+ position: absolute;
+  top: 10%;
+  left: 4%;
+  opacity: .8;
+}
+
+.form2{
+width: 500px;
+height: 680px;
+background-color: black;
+color:white;
+ position: absolute;
+  top: 8%;
+  left:8% ;
+  opacity: .8;
+}
+
+.hero-imaget {
+  background: url(contact.jpg) no-repeat center; 
+  background-size: cover;
+  height: 650px;
+  position: relative;
+}
+
+.hero-textt {
+  position: absolute;
+  top: 38%;
+  left: 30%;
+  color: white;
+border-style:solid;
+ padding-right: 30px;
+ padding-left: 30px;
+  
+}
+
